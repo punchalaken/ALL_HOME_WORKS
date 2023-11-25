@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Рецепты</title>
+</head>
+<body>
+
+{% if recipe %}
+Чтобы приготовить это, Вам необходимо взять:
+{% endif %}
+
+{% for ingredient, amount in recipe.items %}
+    <p>
+        <li>{{ ingredient }}: {{ amount }}</li>
+    </p>
+{% empty %}
+    <p>Такого рецепта не знаю :(</p>
+{% endfor %}
+</body>
+</html>

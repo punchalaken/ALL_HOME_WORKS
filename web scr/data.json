@@ -1,0 +1,20 @@
+{
+    "Программист Python": {
+        "Ссылка": "https://spb.hh.ru/vacancy/84001239?from=vacancy_search_list&query=python",
+        "Зарплата": "до 300000 ₽",
+        "Название компании": "ООО АВ Софт",
+        "Город": "Москва"
+    },
+    "Старший Python разработчик": {
+        "Ссылка": "https://spb.hh.ru/vacancy/82987526?from=vacancy_search_list&query=python",
+        "Зарплата": "160000 – 250000 ₽",
+        "Название компании": "Enjoypro",
+        "Город": "Санкт-Петербург"
+    },
+    "Python/Golang разработчик": {
+        "Ссылка": "https://spb.hh.ru/vacancy/84012626?from=vacancy_search_list&query=python",
+        "Зарплата": "Не указана",
+        "Название компании": "ООО Ассистагро",
+        "Город": "Москва"
+    }
+}

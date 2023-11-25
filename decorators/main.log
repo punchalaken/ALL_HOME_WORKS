@@ -1,0 +1,24 @@
+The file was recorded: Sat Aug 19 15:51:20 2023
+The function name: hello_world
+The function arguments: (), {}
+Result: Hello World
+The file was recorded: Sat Aug 19 15:51:20 2023
+The function name: summator
+The function arguments: (2, 2), {}
+Result: 4
+The file was recorded: Sat Aug 19 15:51:20 2023
+The function name: div
+The function arguments: (6, 2), {}
+Result: 3.0
+The file was recorded: Sat Aug 19 15:51:20 2023
+The function name: summator
+The function arguments: (4.3,), {'b': 2.2}
+Result: 6.5
+The file was recorded: Sat Aug 19 15:51:20 2023
+The function name: summator
+The function arguments: (), {'a': 0, 'b': 0}
+Result: 0
+The file was recorded: Sat Aug 19 15:53:53 2023
+The function name: test_1
+The function arguments: (), {}
+Result: None
